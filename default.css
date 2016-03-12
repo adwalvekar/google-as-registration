@@ -1,0 +1,40 @@
+body{
+	text-align: center;
+}
+.top-bar{
+	background-color: #F6F6F6;
+	padding: 6px 0 6px 0;
+}
+.land-div{
+	background-image: url('./polygon.png'); 
+	width: 100vw;
+	height: 50vh;
+}
+.droids{
+	position: relative;
+	top: 35vh;
+	width: 22vw;
+	height: 14vh;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.land-text{
+	position: absolute;
+	top: 30vh;
+	width: 100%;
+	color: #ecf0f1;
+	font-size: 300%;
+	font-weight: 300;
+	line-height: 1.2;
+}
+.descrip{
+	width: 80%;
+	margin: 0 10% 0 10%;
+	text-align: justify;
+	font-size: 19px;
+	line-height: 1.4;
+}
+h3{
+	text-align: center;
+}
