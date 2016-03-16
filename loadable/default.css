@@ -1,6 +1,7 @@
 body{
 	text-align: center;
 	overflow-x:hidden;
+	padding-bottom: 5vh;
 }
 .top-bar{
 
@@ -29,7 +30,7 @@ body{
 	width: 100%;
 	color: #ecf0f1;
 	font-size: 300%;
-	font-weight: 300;
+	font-weight: 100;
 	line-height: 1.2;
 	z-index: 3;
 	text-shadow: 1px 1px #666666;
@@ -57,9 +58,10 @@ a{
 }
 .body-text{
 
+font-weight: 100;
 font-size: 17px;
 color: #444444;
-font-weight: 300;
+
 }
 .list{
 
